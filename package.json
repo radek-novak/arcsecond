@@ -2,6 +2,7 @@
   "name": "arcsecond",
   "version": "2.0.2",
   "description": "",
+  "sideEffects": false,
   "main": "index",
   "module": "index.mjs",
   "scripts": {
